@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.9.17)  16 DEC 2024 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.9.17)  16 DEC 2024 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -880,7 +880,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] [5
 
 ]
-<vim.png, id=222, 172.645pt x 180.675pt>
+<vim.png, id=230, 172.645pt x 180.675pt>
 File: vim.png Graphic file (type png)
 <use vim.png>
 Package pdftex.def Info: vim.png  used on input line 43.
@@ -896,7 +896,7 @@ Package pdftex.def Info: vim.png  used on input line 43.
 ] [10
 
 ]
-<nano.png, id=350, 197.73875pt x 180.675pt>
+<nano.png, id=359, 197.73875pt x 180.675pt>
 File: nano.png Graphic file (type png)
 <use nano.png>
 Package pdftex.def Info: nano.png  used on input line 73.
@@ -930,24 +930,24 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: E91B8A9A5CE32AF12AC0B6FD8081A5AB;1412
+(rerunfilecheck)             Before: 8E647B28719A8E38B7F84A1546C25439;1531
 (rerunfilecheck)             After:  E12D47E8F012933313E15A3CABFC46DD;1605.
  ) 
 Here is how much of TeX's memory you used:
- 21850 strings out of 476091
- 427485 string characters out of 5794081
- 1863330 words of memory out of 5000000
- 41751 multiletter control sequences out of 15000+600000
+ 21860 strings out of 476091
+ 427574 string characters out of 5794081
+ 1864330 words of memory out of 5000000
+ 41761 multiletter control sequences out of 15000+600000
  514099 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,525b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on main.pdf (16 pages, 90547 bytes).
+Output written on main.pdf (16 pages, 90904 bytes).
 PDF statistics:
- 536 PDF objects out of 1000 (max. 8388607)
- 496 compressed objects within 5 object streams
+ 542 PDF objects out of 1000 (max. 8388607)
+ 501 compressed objects within 6 object streams
  47 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
