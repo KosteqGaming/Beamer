@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Wprowadzenie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Vim}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Nano}{5}{0}{1}
+\beamer@sectionintoc {2}{Vim}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Co to jest Vim?}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Uruchamianie Vim}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Podstawowe tryby}{9}{0}{2}
+\beamer@subsectionintoc {2}{4}{Podsumowanie}{10}{0}{2}
+\beamer@sectionintoc {3}{Nano}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Co to jest Nano?}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Uruchamianie Nano}{13}{0}{3}
+\beamer@subsectionintoc {3}{3}{Podstawowe skroty klawiszowe}{14}{0}{3}
+\beamer@subsectionintoc {3}{4}{Podsumowanie}{15}{0}{3}
+\beamer@sectionintoc {4}{Koniec}{16}{0}{4}
